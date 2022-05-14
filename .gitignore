@@ -1,0 +1,6 @@
+# Ignore any other hammer/map related files, we only want VMFs
+.bsp
+.vmx
+.prt
+.lin
+.log
